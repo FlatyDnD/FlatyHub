@@ -1,0 +1,23 @@
+{
+  "id": "flatyhub",
+  "title": "FlatyHub",
+  "description": "Central management hub for Flaty modules with an extensible registration API.",
+  "version": "1.6.2",
+  "authors": [
+    {
+      "name": "Flaty"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/flatyhub.js"
+  ],
+  "styles": [
+    "styles/flatyhub.css"
+  ],
+  "languages": [],
+  "socket": false
+}
